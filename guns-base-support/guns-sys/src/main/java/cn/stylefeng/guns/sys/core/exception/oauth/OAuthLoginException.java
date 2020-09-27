@@ -14,5 +14,4 @@ public class OAuthLoginException extends ServiceException {
     public OAuthLoginException(AbstractBaseExceptionEnum exception) {
         super(exception);
     }
-
 }
